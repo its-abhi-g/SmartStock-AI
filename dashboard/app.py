@@ -1,1 +1,1 @@
-
+print("SmartStock AI Dashboard")
